@@ -1,0 +1,9 @@
+.section {
+	border: 1px black solid;
+	margin: 25px 0px 25px 0px;
+	padding: 10px;
+}
+
+.btn-default {
+	margin-top: 10px;
+}
